@@ -1,0 +1,2 @@
+Libro - Codice ISBN: 9750938974883, Titolo: Spare il minore, Anno: 2023, Pagine: 300, Autore: prince Harry, Genere: Autobiografico
+Rivista - Codice ISBN: 9041376361287, Titolo: Focus, Anno: 2020, Pagine: 100, Periodicità: SETTIMANALE
