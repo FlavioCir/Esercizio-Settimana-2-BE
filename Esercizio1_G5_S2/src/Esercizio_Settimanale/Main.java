@@ -2,6 +2,8 @@ package Esercizio_Settimanale;
 
 import java.io.File;
 import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashSet;
@@ -25,7 +27,7 @@ public class Main {
   
 	public static void main(String[] args) throws IOException {
 		
-		ArrayList<String> archivio = new ArrayList<>(FileUtils.readLines(fileInfo, ENCODING));
+		ArrayList<String> archivio = new ArrayList<String>(FileUtils.readLines(fileInfo, ENCODING));
 		boolean continuazioneProgramma = true;
 		
 		do {
